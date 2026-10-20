@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// 1. Класс, описывающий логику одного торгового автомата
+// 1. Класс, описывающий логику торгового автомата
 public class VendingMachine
 {
     // Поля (состояние автомата)
